@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/josh/repos/learning/chip-8/build",
+  "command": "/usr/bin/clang++-19 -stdlib=libc++ -g -std=c++23 -o CMakeFiles/chip8.dir/main.cpp.o -c /home/josh/repos/learning/chip-8/main.cpp",
+  "file": "/home/josh/repos/learning/chip-8/main.cpp",
+  "output": "/home/josh/repos/learning/chip-8/build/CMakeFiles/chip8.dir/main.cpp.o"
+}
+]
